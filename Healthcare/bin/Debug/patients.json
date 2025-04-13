@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Anna Petrovna",
+    "Gender": "Female",
+    "Age": 28,
+    "PatientId": "P002",
+    "Diagnosis": "Pneumonia",
+    "InsuranceId": "INS002"
+  },
+  {
+    "Name": "Sergey Sidorov",
+    "Gender": "Male",
+    "Age": 42,
+    "PatientId": "P003",
+    "Diagnosis": "Diabetes",
+    "InsuranceId": "INS003"
+  },
+  {
+    "Name": "Anna Petrovna",
+    "Gender": "Female",
+    "Age": 28,
+    "PatientId": "P002",
+    "Diagnosis": "Cold",
+    "InsuranceId": "INS002"
+  },
+  {
+    "Name": "Sergey Sidorov",
+    "Gender": "Male",
+    "Age": 42,
+    "PatientId": "P003",
+    "Diagnosis": "Diabetes",
+    "InsuranceId": "INS003"
+  }
+]
